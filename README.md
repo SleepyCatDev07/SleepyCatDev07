@@ -11,13 +11,13 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=SleepyCatDev07.SleepyCatDev07&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=SleepyCatHey.SleepyCatHey&"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SleepyCatDev07&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SleepyCatHey&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="130" alt="stats graph"  />
 </div>
 
 ###
@@ -53,7 +53,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=SleepyCatDev07&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true&no-bg=false&margin-h=0" height="150" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=SleepyCatHey&theme=tokyonight&column=7&row=1&margin-w=2&no-frame=true&no-bg=false&margin-h=0" height="150" alt="trophy graph"  />
 </div>
 
 ###
